@@ -1,0 +1,24 @@
+diff --git a/node_modules/@react-aria/overlays/dist/Overlay.main.js b/node_modules/@react-aria/overlays/dist/Overlay.main.js
+index 98920d4..9715cf5 100644
+--- a/node_modules/@react-aria/overlays/dist/Overlay.main.js
++++ b/node_modules/@react-aria/overlays/dist/Overlay.main.js
+@@ -2,7 +2,7 @@ var $d7347c25ab757295$exports = require("./PortalProvider.main.js");
+ var $kxJqT$reactariainteractions = require("@react-aria/interactions");
+ var $kxJqT$reactariafocus = require("@react-aria/focus");
+ var $kxJqT$react = require("react");
+-var $kxJqT$reactdom = require("react-dom");
++// var $kxJqT$reactdom = require("react-dom");
+ var $kxJqT$reactariassr = require("@react-aria/ssr");
+ var $kxJqT$reactariautils = require("@react-aria/utils");
+ 
+diff --git a/node_modules/@react-aria/overlays/dist/useModal.main.js b/node_modules/@react-aria/overlays/dist/useModal.main.js
+index 1962d68..7dc6f88 100644
+--- a/node_modules/@react-aria/overlays/dist/useModal.main.js
++++ b/node_modules/@react-aria/overlays/dist/useModal.main.js
+@@ -1,5 +1,5 @@
+ var $btuAB$react = require("react");
+-var $btuAB$reactdom = require("react-dom");
++// var $btuAB$reactdom = require("react-dom");
+ var $btuAB$reactariassr = require("@react-aria/ssr");
+ 
+ 

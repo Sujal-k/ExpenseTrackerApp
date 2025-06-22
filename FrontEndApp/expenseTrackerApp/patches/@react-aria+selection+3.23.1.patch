@@ -1,0 +1,13 @@
+diff --git a/node_modules/@react-aria/selection/dist/useSelectableCollection.main.js b/node_modules/@react-aria/selection/dist/useSelectableCollection.main.js
+index 47e59d5..eb13eac 100644
+--- a/node_modules/@react-aria/selection/dist/useSelectableCollection.main.js
++++ b/node_modules/@react-aria/selection/dist/useSelectableCollection.main.js
+@@ -1,7 +1,7 @@
+ var $ee0bdf4faa47f2a8$exports = require("./utils.main.js");
+ var $a1189052f36475e8$exports = require("./useTypeSelect.main.js");
+ var $bT8Bh$reactariautils = require("@react-aria/utils");
+-var $bT8Bh$reactdom = require("react-dom");
++// var $bT8Bh$reactdom = require("react-dom");
+ var $bT8Bh$react = require("react");
+ var $bT8Bh$reactariainteractions = require("@react-aria/interactions");
+ var $bT8Bh$reactariafocus = require("@react-aria/focus");
